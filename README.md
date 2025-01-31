@@ -21,5 +21,4 @@ The trained model achieves an accuracy of 99% on the test set. Detailed evaluati
 # Contributing
 Feel free to contribute by opening issues, proposing enhancements, or submitting pull requests. Your feedback is highly appreciated.
 
-# License
-This project is licensed under the MIT License.
+
